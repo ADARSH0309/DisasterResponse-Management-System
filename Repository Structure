@@ -1,0 +1,15 @@
+DisasterResponseManagementSystem/
+│
+├── src/
+│   ├── AVLTree.h
+│   ├── AVLTree.cpp
+│   ├── Graph.h
+│   ├── Graph.cpp
+│   ├── main.cpp
+│
+├── tests/
+│   ├── test_AVLTree.cpp
+│   ├── test_Graph.cpp
+│
+├── README.md
+└── sample_output.txt
