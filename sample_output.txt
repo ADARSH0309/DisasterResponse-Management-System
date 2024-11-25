@@ -1,0 +1,11 @@
+In-order Traversal after insertions: Region1 Region2 Region3 
+In-order Traversal after more insertions: Region1 Region2 Region3 Region4 Region5 
+In-order Traversal before deletion: Region0 Region1 Region2 Region3 Region4 Region5 Region6 
+BFS starting from vertex 0: 0 1 2 
+DFS starting from vertex 0: 0 1 2 
+Dijkstra's shortest path from vertex 0:
+Vertex Distance from Source:
+0		0
+1		1
+2		3
+3		6
